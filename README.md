@@ -21,3 +21,8 @@ http://rll.berkeley.edu/deeprlcourse/
 
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL6ufFqxfo8pKbEaZhtonOniwoo1-P5xil
 
+https://keon.io/deep-q-learning/
+
+https://github.com/aikorea/awesome-rl
+
+
